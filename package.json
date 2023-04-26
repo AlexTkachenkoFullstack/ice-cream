@@ -15,7 +15,7 @@
   "author": "Oleksandr Tkachenko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexTkachenkoFullstack/ice-cream-project/issues"
+    "url": "https://github.com/AlexTkachenkoFullstack/ice-cream/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
